@@ -1,0 +1,31 @@
+.container {
+    display: inline-block;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #b0f68fb7;
+    width: 30%;
+    height: 90%;
+  }
+
+  .container button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .container button:hover {
+    background-color: #3e8e41;
+  }
+
+  .hidden-content
+  {
+    display: none;
+  }
+  .
